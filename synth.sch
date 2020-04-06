@@ -179,4 +179,6 @@ Connection ~ 4950 2800
 Wire Wire Line
 	4850 2800 4750 2800
 Connection ~ 4850 2800
+Text GLabel 5150 3400 1    50   Input ~ 0
+5V
 $EndSCHEMATC

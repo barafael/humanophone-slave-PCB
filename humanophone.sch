@@ -27,7 +27,7 @@ $EndComp
 Text GLabel 6100 3000 0    50   Input ~ 0
 GND
 Text GLabel 6100 3400 0    50   Input ~ 0
-VCC
+5V
 NoConn ~ 6100 3100
 NoConn ~ 6100 3200
 NoConn ~ 6100 3300
